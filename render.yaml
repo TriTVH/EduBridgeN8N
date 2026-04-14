@@ -45,9 +45,9 @@ services:
 
       # n8n host / webhook config for Render
       - key: WEBHOOK_URL
-        value: https://n8n-service-za3c.onrender.com/
+        value: https://n8n-service-ijbl.onrender.com/
       - key: N8N_HOST
-        value: n8n-service-za3c.onrender.com
+        value: https://n8n-service-ijbl.onrender.com
       - key: N8N_PROTOCOL
         value: https
       - key: N8N_PORT
